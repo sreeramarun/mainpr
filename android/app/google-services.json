@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "71811968117",
+    "project_id": "vtu-event-management-system",
+    "storage_bucket": "vtu-event-management-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71811968117:android:441c12bf0c494c7d02dc3c",
+        "android_client_info": {
+          "package_name": "com.example.event"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqL2zvsbm9Dc19wLT0Zh_vml41ynWe6oU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
